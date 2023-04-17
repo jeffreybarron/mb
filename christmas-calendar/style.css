@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(219, 250, 207);
+  https://fonts.google.com/share?selection.family=Montserrat:wght@400;800
+}
+.main{
+  width:100vw; 
+  display:flex;
+  justify-content: center;
+  background-color: rgb(219, 250, 207);
+  color:black;
+  font-family: 'Montserrat', sans-serif;
+}
+.leftGutter{
+  width:10%;
+}
+.rightGutter{
+  width:10%;
+}
+
+thead{
+  font-weight: 700;
+}
+
+.header{
+  color:rgb(255, 0, 0);
+  background-color: rgb(25, 71, 111);
+  font-style:italic ;
+  padding:em;
+  text-align:center;
+  font-family: 'Nerko One', cursive;
+}
+
+
+.footer{
+  color:orange;
+  font-style:italic ;
+  background-color:black;
+  padding:1em;
+  text-align:center;
+}
+
+table, th, td{
+  border: 1px solid rgb(255, 0, 0);
+  border-collapse: collapse;
+}
+
+.rowStyle {
+  border: 1px solid rgb(255, 0, 0);
+  border-collapse: collapse;
+}
+
+.columnStyle {
+  border: 1px solid rgb(255, 0, 0);
+  border-collapse: collapse;
+}
+
+
